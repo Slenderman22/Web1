@@ -1,0 +1,194 @@
+html{
+
+    scroll-behavior: smooth ;
+}
+
+body{
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Spartan', sans-serif;
+    background-image: url(./img/27785-madera.jpg)!important
+    
+    
+    
+
+}
+
+
+h1{
+    text-align: center;
+    color:gold;
+    font-weight:boldr;
+}
+
+h2{
+
+    color: gold ; 
+    display: block;
+    
+}
+
+p{
+
+   color: gold;
+   
+}
+
+footer{
+    clear: both; 
+    text-align: center;
+    background-color:lightsalmon ;
+    padding: 10px;
+    
+    
+    
+}
+
+nav.padre{
+
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(229, 137, 10) ;
+    padding: 5px;
+    
+
+}
+
+nav a{
+
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+
+}
+
+.row{
+
+    display: flex;
+    flex-wrap: wrap;
+    
+
+
+}
+
+aside{
+    width: 30%;
+    display: flex;
+    background-color: rgba(206, 206, 206, 0.76);
+    color: black;
+    font-family: 'Zilla Slab', serif;
+    background: linear-gradient(rgb(212, 211, 211), #4e4e4e);
+    
+    
+}
+
+section{
+
+    
+    width: 70%;
+    float: left;
+    font-family: 'Zilla Slab', serif;
+
+    }
+
+.text-center{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+li{
+    padding: 5px;
+    list-style: none;
+    color: black;
+}
+ 
+.enlace{
+
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 10px;
+    color: whit;
+    text-decoration: none;
+    margin: 5px;
+    
+ }
+
+ .cosas{
+
+    color: black;
+}
+ 
+    
+
+ article.espacio{
+
+    width: 70%;
+    
+
+}
+
+div{
+
+    display: block;
+}
+
+.text-center{
+
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+
+    }
+
+a:hover{
+
+    background-color: rgb(58, 58, 58);
+    padding: 10px;
+    
+    
+}
+
+a:active{
+    background-color:rgb(58, 58, 58);;
+    padding: 12px;
+    border-style: outset;
+    color:white;
+    
+  
+    
+  
+    
+    
+    
+}
+
+.card-text{
+
+    color: black;
+}
+
+.center-class{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#deus{
+
+    text-align: center;
+}
+
+
+ 
